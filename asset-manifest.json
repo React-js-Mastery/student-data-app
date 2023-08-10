@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-data-app/static/css/main.489639d3.css",
+    "main.js": "/student-data-app/static/js/main.8166a5db.js",
+    "static/js/787.61eee022.chunk.js": "/student-data-app/static/js/787.61eee022.chunk.js",
+    "index.html": "/student-data-app/index.html",
+    "main.489639d3.css.map": "/student-data-app/static/css/main.489639d3.css.map",
+    "main.8166a5db.js.map": "/student-data-app/static/js/main.8166a5db.js.map",
+    "787.61eee022.chunk.js.map": "/student-data-app/static/js/787.61eee022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489639d3.css",
+    "static/js/main.8166a5db.js"
+  ]
+}
